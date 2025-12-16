@@ -1,12 +1,22 @@
 {
-  "name": "LWE Kripto Stüdyosu",
-  "description": "Kafes Tabanlı Kriptografinin (Hatalarla Öğrenme - LWE) Python'dan TypeScript'e uyarlanmış, etkileşimli görselleştirmeye sahip web tabanlı uygulaması.",
-  "requestFramePermissions": [],
+  "name": "lwe-crypto-studio",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
   "dependencies": {
-    "react": "19.2.1",
-    "react-dom": "19.2.1",
-    "recharts": "3.5.1",
-    "react-is": "19.2.1",
-    "@heroicons/react": "2.2.0"
+    "react": "^19.2.1",
+    "react-dom": "^19.2.1",
+    "recharts": "^3.5.1",
+    "react-is": "^19.2.1",
+    "@heroicons/react": "^2.2.0"
+  },
+  "devDependencies": {
+    "vite": "^6.4.1",
+    "@vitejs/plugin-react": "^4.3.0"
   }
 }
