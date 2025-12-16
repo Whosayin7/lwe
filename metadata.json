@@ -1,5 +1,5 @@
 {
-  "name": "Ses Şifreleyici",
-  "description": "A cryptographic tool that generates dynamic encryption keys from audio frequency spectrums.",
-  "requestFramePermissions": ["microphone"]
+  "name": "LWE Kripto Stüdyosu",
+  "description": "Kafes Tabanlı Kriptografinin (Hatalarla Öğrenme - LWE) Python'dan TypeScript'e uyarlanmış, etkileşimli görselleştirmeye sahip web tabanlı uygulaması.",
+  "requestFramePermissions": []
 }
